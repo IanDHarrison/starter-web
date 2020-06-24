@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ian Harrison - ian.harrison@shaw.ca
 
 # THANKS
 
