@@ -17,4 +17,4 @@ Plese fork this repository and then issue Pull Requests for review.
 ## Deployment
 
 ## Copyright
-2020 IDH
+2020 IDH (All rights reserved)
