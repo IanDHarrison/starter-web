@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple web app project
+This is a simple web app project.  More text
 
 ## Introduction
 
