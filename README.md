@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 More changes
 
 ## Deployment
+
+## Copyright
+2020 IDH
